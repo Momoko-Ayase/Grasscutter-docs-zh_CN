@@ -12,7 +12,7 @@
 
 运行该文件一次后，服务器会自动关闭并生成配置文件与_不完整的_目录结构。
 
-![文件夹结构](../.gitbook/assets/FolderStructure.png)
+![](../.gitbook/assets/FolderStructure.png)
 
 {% hint style="info" %}
 有关配置文件的修改，详见服务器配置篇。
@@ -36,7 +36,7 @@
 对于gi-bin-output，文件版本见第一层目录下的文件夹名。
 {% endhint %}
 
-![游戏资源放置位置](../.gitbook/assets/ResourceFiles.png)
+![](../.gitbook/assets/ResourceFiles.png)
 
 此外，你还需要从Grasscutter主项目获取部分资源：
 
@@ -56,6 +56,6 @@
 .\start.cmd
 ```
 
-![服务器完成加载](../.gitbook/assets/ServerStart.png)
+![](../.gitbook/assets/ServerStart.png)
 
 Mosi mita! You've done it!

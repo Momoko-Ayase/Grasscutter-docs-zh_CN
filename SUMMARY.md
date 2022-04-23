@@ -10,3 +10,8 @@
 ## 🔑 Advanced
 
 * [📄 Server Config](advanced/server-config.md)
+* [🔐 Proxy](advanced/proxy.md)
+
+***
+
+* [🩺 Troubleshooting](troubleshooting.md)
