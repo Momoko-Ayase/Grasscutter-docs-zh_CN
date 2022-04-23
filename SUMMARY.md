@@ -15,3 +15,8 @@
 ***
 
 * [🩺 Troubleshooting](troubleshooting.md)
+
+## 🗃 Resources
+
+* [⌨ Commands](resources/commands.md)
+* [💡 Handbook](resources/handbook.md)
