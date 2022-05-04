@@ -9,6 +9,7 @@
 
 ## 🔑 Advanced
 
+* [🏗 Building from source](advanced/building-from-source.md)
 * [📄 Server Config](advanced/server-config.md)
 * [🔐 Proxy](advanced/proxy.md)
 

@@ -8,7 +8,11 @@
 
 ### 启动服务器
 
-[在此](https://github.com/Grasscutters/Grasscutter/releases) 下载 `grasscutter.jar` 并放置到任意位置。
+[在此](https://github.com/Grasscutters/Grasscutter/releases) 下载 `grasscutter.jar` 并放置到任意位置。想要自己编译/使用开发分支？点击这里↓↓↓
+
+{% content-ref url="../advanced/building-from-source.md" %}
+[building-from-source.md](../advanced/building-from-source.md)
+{% endcontent-ref %}
 
 运行该文件一次后，服务器会自动关闭并生成配置文件与_不完整的_目录结构。
 
