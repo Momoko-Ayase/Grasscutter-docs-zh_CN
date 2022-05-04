@@ -18,17 +18,23 @@
 
 在命令行下运行
 
+{% tabs %}
+{% tab title="Windows" %}
 ```shell
 cd Grasscutter
-
-# 对于Windows用户（Powershell，MinGW，Cygwin）
 .\gradlew.bat #设置环境
 .\gradlew jar #编译
+```
+{% endtab %}
 
-# 对于Linux用户
+{% tab title="Linux" %}
+```shell
+cd Grasscutter
 chmod +x gradlew #添加可执行标记
 .\gradlew jar #编译
 ```
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 对于旧版的Grasscutter，编译结果为`grasscutter.jar`。
