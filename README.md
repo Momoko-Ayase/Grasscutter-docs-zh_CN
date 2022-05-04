@@ -1,5 +1,5 @@
 ---
-description: 一个未完成的*某个动画游戏*的服务端重新实现.
+description: 一个*某个动画游戏*的服务端重新实现.
 ---
 
 # ✨ Overview
@@ -16,6 +16,12 @@ description: 一个未完成的*某个动画游戏*的服务端重新实现.
 * [x] 祈愿系统
 * [x] 好友列表
 * [x] 联机_部分_工作
+
+### 贡献
+
+如果你想要为Grasscutter项目贡献代码，请先阅读[CONTRIBUTING.md](https://github.com/Grasscutters/Grasscutter/blob/development/CONTRIBUTING.md)。
+
+如果你想为本文档添加内容，请查看[这里](CONTRIBUTING.md)！
 
 ### 免责声明
 
