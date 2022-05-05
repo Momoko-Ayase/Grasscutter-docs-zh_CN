@@ -1,5 +1,7 @@
 ---
 description: 一个*某个动画游戏*的服务端重新实现.
+cover: .gitbook/assets/RepositoryImage.png
+coverY: 273.0456226880395
 ---
 
 # ✨ Overview

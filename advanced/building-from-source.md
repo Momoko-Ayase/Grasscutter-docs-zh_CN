@@ -36,8 +36,12 @@ chmod +x gradlew #添加可执行标记
 {% endtab %}
 {% endtabs %}
 
+坐和放宽。你会得到一个文件为grasscutter-VERSION-BRANCH.jar。
+
 {% hint style="info" %}
 对于旧版的Grasscutter，编译结果为`grasscutter.jar`。
 
 如果你使用Windows CMD，请**不要**加入`./`前缀。
+
+如果编译时自动使用了错误的JDK版本，请检查JAVA\_HOME环境变量。
 {% endhint %}
