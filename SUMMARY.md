@@ -10,6 +10,7 @@
 ## 🔑 Advanced
 
 * [🏗 Building from source](advanced/building-from-source.md)
+* [📜 Startup Script Config](advanced/startup-script-config.md)
 * [📄 Server Config](advanced/server-config.md)
 * [🔐 Proxy](advanced/proxy.md)
 
