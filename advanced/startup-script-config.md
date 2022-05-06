@@ -12,10 +12,6 @@
 | MITMDUMP\_PATH | %CUR\_PATH%                               | MitMDump所在目录。 |
 | MONGODB\_PATH  | %CUR\_PATH%                               | MongoDB所在目录。  |
 
-{% hint style="warning" %}
-对于Development分支，请更改JAVA\_PATH至`C:\Program Files\Eclipse Adoptium\jdk-17.0.3.7-hotspot\bin\`（默认安装位置，请根据实际情况更改），否则将无法启动。
-{% endhint %}
-
 ### Utility Path
 
 | 变量                      | 默认值                           | 备注          |
