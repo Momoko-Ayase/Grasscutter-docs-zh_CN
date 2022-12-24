@@ -1,16 +1,12 @@
 ---
 description: 一个*某个动画游戏*的服务端重新实现.
-cover: .gitbook/assets/b6ba89cc-0b0d-4e00-aafa-36df56a5c63f.png
+cover: .gitbook/assets/RepositoryImage.png
 coverY: 273.0456226880395
 ---
 
 # ✨ Overview
 
 <mark style="color:blue;">**Olah mimi tomo👋!**</mark>
-
-{% hint style="danger" %}
-<mark style="color:red;">**本版本文档(1.0)不再更新。请前往**</mark> [<mark style="color:red;">**https://grasscutter.cf**</mark>](https://grasscutter.cf) <mark style="color:red;">**查看最新文档。**</mark>
-{% endhint %}
 
 ### 已完成功能
 

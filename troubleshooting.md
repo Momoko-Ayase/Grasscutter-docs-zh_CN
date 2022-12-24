@@ -11,8 +11,8 @@
 1. 按下`Enter` 点击“添加会话对象”
 2. 添加“Server”
 
-![](<.gitbook/assets/image (2).png>)
+![](.gitbook/assets/AddMsgTarget.png)
 
 即可。
 
-![](<.gitbook/assets/image (1).png>)
+![](.gitbook/assets/AddMsgTargetSuccess.png)

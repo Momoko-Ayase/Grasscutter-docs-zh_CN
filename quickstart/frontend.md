@@ -67,7 +67,7 @@ class Handlers
 
 打开Tools/Options-HTTPS，勾选 Decrypt HTTPS Traffic并按照提示安装证书。
 
-![](<../.gitbook/assets/image (5).png>)
+![](../.gitbook/assets/FiddlerHTTPSConfig.png)
 
 切换到GrassCutter CLI，创建用户。
 
@@ -80,8 +80,8 @@ account create [用户名] {玩家UID}
 
 如果出现如图所示情况，点击Yes即可。
 
-![](../.gitbook/assets/EOHE]C2\(XDN\[V{\_KB98MQ88.png)
+![](../.gitbook/assets/CertError.png)
 
 在完成创建角色后，你应该成功进入了游戏界面。
 
-![](../.gitbook/assets/BSCB9L\~SSGHI7AXF0UJXUNS.png)
+![](../.gitbook/assets/GameUI.png)

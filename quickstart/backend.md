@@ -40,7 +40,7 @@
 对于gi-bin-output，文件版本见第一层目录下的文件夹名。
 {% endhint %}
 
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/ResourceFiles.png)
 
 此外，你还需要从Grasscutter主项目获取部分资源：
 
@@ -50,7 +50,7 @@
 
 最终结果如图：
 
-![](<../.gitbook/assets/image (3).png>)
+![](../.gitbook/assets/StructureFinal.png)
 
 现在可以尝试启动服务器了：
 
@@ -60,6 +60,6 @@
 .\start.cmd
 ```
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/ServerStart.png)
 
 Mosi mita! You've done it!
