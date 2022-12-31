@@ -1,4 +1,4 @@
-# 🩺 Troubleshooting
+# 🩺 疑难解答
 
 ### 重启服务端后，我的数据全部丢失了！
 
@@ -11,8 +11,14 @@
 1. 按下`Enter` 点击“添加会话对象”
 2. 添加“Server”
 
-![](.gitbook/assets/AddMsgTarget.png)
-
 即可。
 
-![](.gitbook/assets/AddMsgTargetSuccess.png)
+<div>
+
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
