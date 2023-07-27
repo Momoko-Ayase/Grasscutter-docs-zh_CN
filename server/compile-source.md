@@ -2,12 +2,12 @@
 
 在开始前，请确保已安装 [Git](https://git-scm.com/downloads) 与 [JDK17](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/)。
 
-其次，在终端运行`git clone https://github.com/grasscutters/grasscutter.git`获取源代码。
+其次，在终端运行`git clone --recurse-submodules https://github.com/grasscutters/grasscutter.git`获取源代码。
 
 {% hint style="info" %}
 在中国大陆地区，执行此操作可能较慢或无法完成，此时请使用镜像完成操作，
 
-例如`git clone https://githubfast.com/Grasscutters/Grasscutter.git`
+例如`git clone --recurse-submodules https://githubfast.com/Grasscutters/Grasscutter.git`
 {% endhint %}
 
 {% hint style="danger" %}
@@ -22,7 +22,7 @@
 ```shell
 cd Grasscutter
 .\gradlew.bat #设置环境
-.\gradlew jar #编译
+.\gradlew jar -PskipHandbook=1 #编译，顺带一提哪个大聪明用Vite写的Handbook前端
 ```
 {% endcode %}
 {% endtab %}
@@ -32,7 +32,7 @@ cd Grasscutter
 ```shell
 cd Grasscutter
 chmod +x gradlew #添加可执行标记
-.\gradlew jar #编译
+.\gradlew jar -PskipHandbook=1 #编译，顺带一提哪个大聪明用Vite写的Handbook前端
 ```
 {% endcode %}
 {% endtab %}
